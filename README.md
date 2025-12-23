@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vikas Gupta
 
-I'm a **Backend Software Engineer** with ~3 years of experience in designing and developing scalable backend systems using **Go**, **PostgreSQL**, **Kafka**, **Redis**, and **Elasticsearch**. Currently working at **Trellix (formerly McAfee Enterprise)** in the **Network Detection and Response (NDR)** domain.
+I'm a **Backend Software Engineer** with ~3.5 years of experience in designing and developing scalable backend systems using **Go**, **PostgreSQL**, **Kafka**, **Redis**, and **Elasticsearch**. Currently working at **Trellix (formerly McAfee Enterprise)** in the **Network Detection and Response (NDR)** domain.
 
 ---
 
